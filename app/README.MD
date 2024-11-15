@@ -4,4 +4,7 @@ Blog API adalah REST API yang dibuat menggunakan express.js dan sequelize untuk 
 ## Fitur
 - **Autentikasi Menggunakan JWT**: Pengguna dapat Register dan Login menggunakan token JWT untuk mengakses endpoint yang dilindungi.
 - **CRUD Artikel**: Pengguna dapat menambah, mengupdate, dan menghapus artikel
+
+
 `
+

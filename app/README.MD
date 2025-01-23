@@ -1,4 +1,4 @@
-## ecar-API
+## Blog-API
 Blog API adalah REST API yang dibuat menggunakan express.js dan sequelize untuk mengelola blog seperti artikel. API ini dibuat menggunakan MySQL sebagai database
 
 ## Fitur
